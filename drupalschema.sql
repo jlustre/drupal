@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 3.5.2.2
 -- http://www.phpmyadmin.net
---
+-- Author: Joey Lustre
 -- Host: 127.0.0.1
 -- Generation Time: Jun 05, 2014 at 07:15 AM
 -- Server version: 5.5.27
